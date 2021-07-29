@@ -1,0 +1,1 @@
+This project was built using Javascript and Minimax Algorithm was used to create the AI.
